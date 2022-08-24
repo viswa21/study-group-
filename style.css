@@ -3,11 +3,14 @@
     padding:0;
     
 }
-.tbx{
-    border-color: black;
 
-}
-.main{
+
+.box{
+    display: flex;
+    width:400px;
+    height: 400px;
+    align-items: center;
     justify-content: center;
-    background-color: aqua;
+    
+    border: 3px solid #555;
 }
