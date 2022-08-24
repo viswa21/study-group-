@@ -3,3 +3,11 @@
     padding:0;
     
 }
+.tbx{
+    border-color: black;
+
+}
+.main{
+    justify-content: center;
+    background-color: aqua;
+}
